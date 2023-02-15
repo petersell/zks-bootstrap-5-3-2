@@ -117,7 +117,8 @@
     <property name="args.csspath" value="css"/>
     <property name="icons.include" value="no"/>
     <property name="menubar-toc.include" value="no"/>
-    <property name="nav-toc" value="partial"/>
+    <!--<property name="nav-toc" value="partial"/>-->
+    <property name="nav-toc" value="none"/>
     <property name="popovers.include" value="no"/>
     <property name="dita-bootstrap.css.add" value="yes"/>
     <!--
