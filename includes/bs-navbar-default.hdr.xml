@@ -2,22 +2,40 @@
 
   <div class="container">
     <a class="navbar-brand" href="/">
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="16"
-        height="16"
-        fill="currentColor"
-        class="bi bi-bootstrap"
-        viewBox="0 0 16 16"
-      >
-        <path
-          d="M5.062 12h3.475c1.804 0 2.888-.908 2.888-2.396 0-1.102-.761-1.916-1.904-2.034v-.1c.832-.14 1.482-.93 1.482-1.816 0-1.3-.955-2.11-2.542-2.11H5.062V12zm1.313-4.875V4.658h1.78c.973 0 1.542.457 1.542 1.237 0 .802-.604 1.23-1.764 1.23H6.375zm0 3.762V8.162h1.822c1.236 0 1.887.463 1.887 1.348 0 .896-.627 1.377-1.811 1.377H6.375z"
-        />
-        <path
-          d="M0 4a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V4zm4-3a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V4a3 3 0 0 0-3-3H4z"
-        />
-      </svg>
-      Schreibwerkstatt
+      <div class="container">
+        <a class="navbar-brand" href="/">
+          <svg
+       width="18"
+       height="18"
+       viewBox="0 0 26.458334 26.458334"
+       version="1.1"
+       id="svg5"
+       xmlns="http://www.w3.org/2000/svg"
+       xmlns:svg="http://www.w3.org/2000/svg">
+      <defs
+         id="defs2" />
+      <g
+         id="layer1"
+         transform="translate(-52.050649,-49.410997)">
+        <g
+           id="g3666"
+           transform="matrix(0.26631974,0,0,0.26631974,40.066261,33.431813)">
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.13129;stroke-dasharray:none;stroke-opacity:1"
+             id="rect3608"
+             width="99.348"
+             height="99.348"
+             x="45"
+             y="60"
+             d="m 54.9348,60 h 79.4784 a 9.9348,9.9348 45 0 1 9.9348,9.9348 l 0,79.4784 a 9.9348,9.9348 135 0 1 -9.9348,9.9348 l -79.4784,0 A 9.9348,9.9348 45 0 1 45,149.4132 V 69.9348 A 9.9348,9.9348 135 0 1 54.9348,60 Z" />
+          <path
+             id="path3606"
+             style="fill:#198754;fill-opacity:1;stroke:#ffffff;stroke-width:2.065;stroke-dasharray:none;stroke-opacity:1"
+             d="m 59.095785,61.0325 84.219665,84.21966 V 70.76059 A 9.728273,9.728273 0 0 0 133.58684,61.0325 Z M 46.0325,75.99024 v 72.5966 a 9.728273,9.728273 0 0 0 9.728088,9.7286 H 128.3577 Z" />
+        </g>
+      </g>
+    </svg>
+     Diagonale
     </a>
     <button
       class="navbar-toggler"
