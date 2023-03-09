@@ -2,9 +2,7 @@
 
   <div class="container">
     <a class="navbar-brand" href="/">
-      <div class="container">
-        <a class="navbar-brand" href="/">
-          <svg
+      <svg
        width="18"
        height="18"
        viewBox="0 0 26.458334 26.458334"
